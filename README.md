@@ -15,3 +15,7 @@ Things that we can do to improve customer satisfaction.
 ## Technology
 
 Ideas for software or technology upgrades that will make the work that we do easier.
+
+## Accessibility
+
+Ways to make people of all abilities have a better experience on our website.
