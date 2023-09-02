@@ -20,13 +20,3 @@ List the key features and functionalities of your project. Be concise and highli
 - Feature 2: Description
 - ...
 
-## Accessibility
-
-Provide a link to a live demo of your project if available. You can also include screenshots, GIFs, or videos to showcase your project in action.
-
-
-```bash
-# Example installation steps
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-npm install
